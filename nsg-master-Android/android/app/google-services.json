@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "172197093477",
+    "firebase_url": "https://nsd-project-b4c21-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nsd-project-b4c21",
+    "storage_bucket": "nsd-project-b4c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172197093477:android:6ea73d5b8a686c01b9a68c",
+        "android_client_info": {
+          "package_name": "com.example.nsg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ-9KVB694C3r019EICX7yD-fw39_irHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
